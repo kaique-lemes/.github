@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Sobre Mim
+## 🔥 Sobre Mim
 
 Sou **Kaique Eduardo Lemes da Silva**, um **Desenvolvedor Full-Stack & Mobile** com mais de **2 anos de experiência prática**. Meu foco é criar soluções robustas do zero, entregando valor real para empresas — como sistemas de rastreamento de validade e estoque em ambientes de produção.
 

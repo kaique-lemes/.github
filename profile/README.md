@@ -13,6 +13,7 @@ Sou **Kaique Eduardo Lemes da Silva**, um **Desenvolvedor Full-Stack & Mobile** 
 - 🎓 **Graduando em Tecnologia** pela **FATEC-SP** (Faculdade de Tecnologia de São Paulo).
 - 🏫 **Professor de Inglês Avançado**, combinando habilidades de comunicação com expertise técnica para equipes multidisciplinares.
 - 💡 **Especialista em Node.js, React e Tauri**, com ênfase em aplicações escaláveis e performáticas.
+- 💼 Freelancer Ativo: Trabalho como freelancer em projetos de desenvolvimento web e mobile, ajudando clientes a implementarem soluções personalizadas,             como apps de gerenciamento e integrações de API.
 - 📍 Localizado no **Brasil, SP**, sempre aberto a colaborações remotas ou presenciais.
 
 
